@@ -23,7 +23,7 @@ THEME = {
 
 # Model settings
 MODEL_CONFIG = {
-    "api_key": "Gemini_API",
+    "api_key": "google_genai",
     "model_name": "gemini-pro"
 }
 
